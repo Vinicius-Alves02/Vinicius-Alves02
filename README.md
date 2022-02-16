@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinicius-Alves02
 - 👀 I’m interested in Tecnolgy
-- 🌱 I’m currently learning Computer science
+- 🌱 I’m currently learning Computer science 1/8
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
