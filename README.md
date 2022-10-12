@@ -15,6 +15,8 @@
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 
+## 
+
   ![Snake animation](https://github.com/Vinicius-Alves02/Vinicius-Alves02/blob/output/github-contribution-grid-snake.svg)
 <!---
 Vinicius-Alves02/Vinicius-Alves02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
