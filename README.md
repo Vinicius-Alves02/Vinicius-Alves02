@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Vinicius-Alves02
-- 👀 I’m interested in Tecnolgy
-- 🌱 I’m currently studying Computer science 2/8
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá! Me chamo Vinicius Alves 😃
+- 🇧🇷  Brasileiro, 20 Anos
+- 💻 Estou cursando Ciencia da Computação - 2/8 Semestres -> [SPTech](https://www.sptech.school/?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw3qQsDDMK-vYX_gR94oc4GLs_oD-UXLogCOIGUDghyjefrHbu9Rmf0aAvrREALw_wcB)
 
 <!---
 Vinicius-Alves02/Vinicius-Alves02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
