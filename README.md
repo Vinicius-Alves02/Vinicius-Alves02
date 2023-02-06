@@ -1,6 +1,6 @@
 ## Olá! Me chamo Vinicius Alves 😃
 - 🇧🇷  Brasileiro, 20 Anos
-- 💻 Estou cursando Ciencia da Computação - 2/8 Semestres -> [SPTech](https://www.sptech.school/?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw3qQsDDMK-vYX_gR94oc4GLs_oD-UXLogCOIGUDghyjefrHbu9Rmf0aAvrREALw_wcB)
+- 💻 Estou cursando Ciencia da Computação - 3/8 Semestres -> [SPTech](https://www.sptech.school/?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw3qQsDDMK-vYX_gR94oc4GLs_oD-UXLogCOIGUDghyjefrHbu9Rmf0aAvrREALw_wcB)
 <div align="left">
   <a href="https://github.com/Vinicius-Alves02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Alves02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
