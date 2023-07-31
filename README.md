@@ -1,5 +1,5 @@
 ## Olá! Me chamo Vinicius Alves 😃
-- 🇧🇷  Brasileiro, 21 Anos
+- 🇧🇷  Brasileiro, 21 Anos.
 - 💻 Estou cursando Ciencia da Computação - 4/8 Semestres -> [SPTech](https://www.sptech.school)
 <div align="left">
   <a href="https://github.com/Vinicius-Alves02">
